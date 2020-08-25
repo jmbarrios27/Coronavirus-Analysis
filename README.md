@@ -1,5 +1,5 @@
 # Coronavirus-Analysis
-## **By:** *José Max Barrios Lara**
+## **By:** *José Max Barrios Lara*
 
 ![](/virus.png)
 
